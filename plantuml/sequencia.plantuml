@@ -1,0 +1,12 @@
+@startuml
+actor       Usuário       as professor
+entity      Entity      as login
+database    Database    as database
+
+professor -> login : name/password 
+login -> database :  check
+database -> login : Check OK
+login -> professor : valid token
+
+
+@enduml

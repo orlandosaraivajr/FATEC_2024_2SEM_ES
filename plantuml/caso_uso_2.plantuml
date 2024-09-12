@@ -1,0 +1,20 @@
+
+@startuml
+left to right direction
+actor "Professor" as prof
+actor "Aluno" as aluno
+rectangle SIGA {
+  usecase "Lançar Presença" as UC1
+  usecase "Lançar Notas" as UC2
+  usecase "Editar Presença" as UC3
+  usecase "Consultar Presença" as UC4
+}
+prof --> UC1
+prof --> UC2
+prof --> UC3
+prof --> UC4
+
+aluno --> UC4
+@enduml
+
+

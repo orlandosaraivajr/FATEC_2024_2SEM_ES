@@ -1,0 +1,10 @@
+
+@startuml
+
+"Professor" as professor
+"Aluno" as aluno
+professor --> (Lançar Notas)
+professor --> (Consultar sala)
+aluno --> (Consultar sala)
+
+@enduml
