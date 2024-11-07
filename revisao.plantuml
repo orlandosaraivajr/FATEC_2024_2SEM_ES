@@ -1,0 +1,64 @@
+@startmindmap
+
+* Engenharia de Software
+** Para que serve ?
+*** Estruturar processos
+*** Apoiar o desenvolvimento profissional do software
+*** Definir 
+**** Especificação
+**** Projeto
+**** Evolução
+
+** Como Surgiu ?
+*** Crise do Software
+**** Não satisfazer requisitos
+**** Estouro de orçamento
+**** Qualidade baixa
+*** Disciplina
+**** Apoio ao processo de software 
+*** Processo de Software
+**** Especificação
+**** Desenvolvimento
+**** Validação
+**** Evolução
+
+** Modelos de Processo de Software
+*** Representação Simplificada
+**** Abstração
+*** Dirigidos a planos
+**** Modelo Cascata
+*** Processos ágeis
+**** Desenvolvimento Incremental
+**** Orientado a Reúso
+*** Modelos não são mutuamente exclusivos
+
+** Requisitos
+*** Tipos
+**** Funcionalidades
+***** Requisitos Funcionais
+**** Restrições 
+***** Requisitos Não Funcionais
+****** Requisitos de Produto
+****** Requisitos organizacionais
+****** Requisitos Externos
+*** Classificação
+**** Requisitos de Usuários
+**** Requisitos de Sistema
+
+*** Engenharia de Requisitos
+**** Descobrir
+**** Analisar
+**** Documentar
+**** Verificar
+
+** Documentação
+*** Artefatos de Software
+*** Documento de Requisitos de Software
+*** Texto
+*** Diagramas
+**** UML
+**** Cobrado na prova
+***** Caso de Uso
+***** Diagrama de Contexto 
+
+@endmindmap
